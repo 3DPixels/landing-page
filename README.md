@@ -14,10 +14,10 @@ This project converts the static web page into an interactive page, with the abi
 
 ## References
 
--w3schools
--javaScriptTutorial
--MDN documents
--Github
--Stackoverflow
+- w3schools
+- javaScriptTutorial
+- MDN documents
+- Github
+- Stackoverflow
 
 
