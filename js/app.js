@@ -107,9 +107,9 @@ function topFunction() {
 function isInViewport(element) {
     const rect = element.getBoundingClientRect();
     return (
-       
+       rect.top >= -220 &&
         
-        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) 
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) + 130
     );
 }
 
